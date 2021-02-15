@@ -1,5 +1,27 @@
 ## Welcome to GitHub Pages
 
+<h3>SAP Stammtisch</h3>
+<p><font color="white">Du möchtest dich gemeinsam mit anderen Entwicklern vernetzen und gleichzeitig etwas Neues lernen? Dann bist du bei uns genau richtig! Denn wir haben die erfolgreichen Stammtische im Repository.<br><br>
+
+Wenn auch Du ein Teil der Community sein möchtest teile uns kurz Dein Stammtisch mit und Du bekommst ein Repository für Deinen Stammtisch!<br><br>
+
+Komm vorbei und tausche dich mit anderen Entwicklern und SAP-Experten aus. <br><br>
+    Folgende Stammtische sind bereits bei uns vertreten: </font><br><br></p>
+<ul>
+<li><a href="https://sapstammtisch.github.io/Bern">SAPStammtisch Bern</a></li>
+<li><a href="https://sapstammtisch.github.io/Luzern">SAPStammtisch Luzern</a></li>
+<li><a href="https://sapstammtisch.github.io/Magdeburg">SAPStammtisch Magdeburg</a></li>
+<li><a href="https://sapstammtisch.github.io/Dortmund">SAPStammtisch Dortmund</a></li>
+<li><a href="https://sapstammtisch.github.io/Lingen">SAPStammtisch lingen</a></li>
+</ul>
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/SAPStammtisch/welcome/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
