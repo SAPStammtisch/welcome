@@ -1,11 +1,16 @@
 ## Welcome to GitHub Pages
 
-<h3>SAP Stammtisch</h3>
-<p>Du möchtest dich gemeinsam mit anderen Entwicklern vernetzen und gleichzeitig etwas Neues lernen? Dann bist du bei uns genau richtig! Denn wir haben die erfolgreichen Stammtische im Repository.<br><br>
+SAP Stammtisch
 
-Wenn auch Du ein Teil der Community sein möchtest teile uns kurz Dein Stammtisch mit und Du bekommst ein Repository für Deinen Stammtisch!<br><br>
+Du möchtest dich gemeinsam mit anderen SAP-Entwicklern vernetzen, beispielsweise
+-	um etwas Neues zu lernen,
+-	Kontakt zu Gleichgesinnten zu finden oder
+-	weil du einfach gerne netzwerkst?
 
-Komm vorbei und tausche dich mit anderen Entwicklern und SAP-Experten aus. <br><br>
+Dann bist du hier richtig, denn wir haben die erfolgreichen SAP Stammtische im Repository.
+
+Teile uns einfach Deinen SAP Stammtisch mit – und in Kürze erhältst Du einen Repository.
+
     Folgende Stammtische sind bereits bei uns vertreten: </p>
 <ul>
 <li><a href="https://sapstammtisch.github.io/Bern">SAPStammtisch Bern</a></li>
