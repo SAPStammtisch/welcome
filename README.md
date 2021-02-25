@@ -11,7 +11,7 @@ Dann bist du hier richtig, denn wir haben die erfolgreichen SAP Stammtische im R
 
 Teile uns einfach Deinen SAP Stammtisch mit – und in Kürze erhältst Du einen Repository.
 
-    Folgende Stammtische sind bereits bei uns vertreten: </p>
+    Folgende Stammtische sind bereits bei uns vertreten: 
 <ul>
 <li><a href="https://sapstammtisch.github.io/Bern">SAPStammtisch Bern</a></li>
 <li><a href="https://sapstammtisch.github.io/Luzern">SAPStammtisch Luzern</a></li>
